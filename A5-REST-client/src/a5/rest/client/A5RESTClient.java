@@ -29,5 +29,5 @@ public class A5RESTClient {
         get_example example = new get_example("104.248.47.74", 80);
         example.doExampleGet2(); //http://104.248.47.74/dkrest/test/get2
     }
- }   
+ } 
 }
